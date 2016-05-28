@@ -1,4 +1,7 @@
 project_2.7.5
 =============
 
-A Symfony project created on May 3, 2016, 1:40 pm.
+* ビルドインサーバ起動
+ * php app/console server:run
+* URL確認
+ * php app/console debug:route
